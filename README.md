@@ -27,10 +27,9 @@ Libraries: Pandas, Maplotlib, OS
 For support, email Vishalroy@hotmail.co.uk
 
 
-## Lessons Learned frequently than men but the amounts of divorce rates over the previous decade before (i.e. 2005-2014) are dropping. 
+## Lessons Learned  
 
-During this data analysis project, I've learned many things such as, women in the UK not only intiate divorce much than men. Overall, divorce have dropped significnatly,  over the past 20 year timeframe (i.e. 1990-2010) and the divorce rates continue to drop, which does paint a more optimsitic outlook on future UK marriage prospects. Nevertheless, It will be interesting to see how the current data compares to this study.  
-
+During this data analysis project, I've learned many things such as, women in the UK not only intiate divorce much than men, most notebaly in the previous decade (between 2005-2015). Overall, divorce have dropped significnatly,  over the past 20 year timeframe (i.e. 1990-2010) and the divorce rates continue to drop, which does paint a more optimsitic outlook on future UK marriage prospects. Nevertheless, It will be interesting to see how the current data compares to this study.  
 
 
 
