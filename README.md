@@ -11,26 +11,11 @@ With the use of the Office of National statistics (ONS) data, I was able to coll
 ![App Screenshot](https://user-images.githubusercontent.com/72412949/152849105-60bac882-fd87-425d-8644-2a927d0e654e.PNG)
 
 
-## Acknowledgements
-
- The orignal CSV file was from Kaggle: https://www.kaggle.com/osbornep/visual-analysis-in-r-plotly/data
-
- 
-## Tech Stack
-
-Language: Python
-
-Libraries: Pandas, Maplotlib, OS
-
-## Support
-
-For support, email Vishalroy@hotmail.co.uk
 
 
 ## Lessons Learned  
 
 During this data analysis project, I've learned many things such as, women in the UK not only intiate divorce much than men, most notebaly in the previous decade (between 2005-2015). Overall, divorce have dropped significnatly,  over the past 20 year timeframe (i.e. 1990-2010) and the divorce rates continue to drop, which does paint a more optimsitic outlook on future UK marriage prospects. Nevertheless, It will be interesting to see how the current data compares to this study.  
-
 
 
 
